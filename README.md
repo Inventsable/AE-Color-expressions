@@ -2,6 +2,8 @@
 
 ## RGBToHex
 
+> By prompt on Battleaxe Discord from user discussing how difficult they found writing an equivalent expression to be
+
 Concise utility function to create a hex value from a given color control:
 
 ```js
